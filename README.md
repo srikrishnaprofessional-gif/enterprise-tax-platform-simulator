@@ -2,6 +2,14 @@
 
 ### ERP → Middleware → Vertex Tax Engine → Tax Data Hub → AI Copilot
 
+## Live Demo
+
+You can try the interactive Enterprise Tax Platform Simulator here:
+
+🔗 https://enterprise-tax-platform-simulator-39mqcy8pg5fseryuninzqy.streamlit.app/
+
+The application simulates how enterprise tax systems process transactions through ERP systems, middleware pipelines, tax engines, and reporting platforms.
+
 ---
 
 # Project Overview
